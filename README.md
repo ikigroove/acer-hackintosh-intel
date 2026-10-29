@@ -35,3 +35,4 @@ OpenCore configuration for running macOS 13 Ventura on Acer Aspire A315-56 lapto
 - **USB Ports:** You must map your own USB ports and use your custom UTBMap.kext.
 - **Wireless:** Wi-Fi works immediately after installation. Running OCLP is not required for wireless card features.
 - **SMBIOS:** Use MacBookAir9,1
+- **SSD:** I use a non-factory ssd. I am not aware of any factory support from SKHynix. Use kext for your model SSD.
